@@ -1,2 +1,2 @@
-# datasciencecourseera
+# datasciencecoursera
 repo for assignment
